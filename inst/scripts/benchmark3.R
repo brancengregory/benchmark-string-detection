@@ -1,4 +1,6 @@
-library(tidyverse)
+library(dplyr)
+library(stringr)
+library(stringi)
 library(purrr)
 library(bench)
 library(ggplot2)
